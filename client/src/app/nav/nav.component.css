@@ -1,0 +1,12 @@
+.bg-navbar {
+    background: #099404;
+}
+
+.bg-loginbutton {
+    background: #e60404;    
+}
+
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+
